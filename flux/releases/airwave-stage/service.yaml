@@ -7,5 +7,5 @@ spec:
   - port: 4997
     $patch: delete
   - name: http  
-    port: 6000
+    port: 6005
     targetPort: 4998
