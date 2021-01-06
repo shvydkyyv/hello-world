@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: airwavetechio/hello-world:latest
+        image: shvydkyyv/hello-world:latest
         env:
         - name: "AIRWAVE_HW_PORT"
           valueFrom:
